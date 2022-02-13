@@ -18,3 +18,15 @@ Zoho_test_Frontend_code Folder:
 3. After running above command run : npm start 
 4. After running the npm start command the Application will be running on localhost:4200 Please verify the application on localhost:4200
 
+
+I have created 4 API's :
+To get all the users : http://localhost:3000/getUsers
+To get user by the email : http://localhost:3000/getUsers/email
+To update user the user data :http://localhost:3000/updateUser/admin
+To create a user : http://localhost:3000/createUser
+
+You can check these API's through postman after running the Zoho_test_backend_code Folder
+
+Registed user Credentials :
+Email : admin
+password : admin
