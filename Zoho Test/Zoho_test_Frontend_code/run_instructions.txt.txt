@@ -1,0 +1,19 @@
+
+Zoho Assignment : Comments(Full stack Application)
+
+I have created two folders for this Application one folder has Frontend code and another folder has backend code
+
+Zoho_test_backend_code Folder:
+
+1. In this folder I have created api's using nodejs
+2. Open the command prompt inside the folder and run command : npm i (To get the packages)
+3. After running above command you will get node modules folder please check whether you got that folder or not
+4. After verifying please run command : npm run dev
+5. After running above command all the api's which I have created will be activated please keep this command prompt like that only and open another folder (Zoho_test_Frontend_code Folder)
+
+Zoho_test_Frontend_code Folder:
+
+1. Dont close the above folder command prompt open new command prompt for this folder because We will get api's from that folder.
+2. After opening the new command prompt run command : npm i
+3. After running above command run : npm start 
+4. After running the npm start command the Application will be running on localhost:4200 Please verify the application on localhost:4200
